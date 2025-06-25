@@ -1,14 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 :root
 
 
 .titulo {
     color: #0c0e0d;
-    font-size: 34px;
-    font-family: Dancing Script;
+    font-size: 32px;
+    font-family:Dancing Script;
     text-align: center;
     padding-top: 3em;
 }
+
 .foto {
     width: 30%;
     height: 50px;
