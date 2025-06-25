@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
-:root
-
+:root{
+ background-color: #5edb55;
+}
 
 .titulo {
     color: #0c0e0d;
