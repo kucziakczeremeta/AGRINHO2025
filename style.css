@@ -17,3 +17,10 @@
     width: 30%;
     height: 50px;
 }
+
+.header {
+    background-color: #a1ee77 ;
+    color: #0c0e0d ;
+    padding: 10px 0 ;
+    text-align: center;
+}
