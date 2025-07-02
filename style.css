@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 :root{
-
+background-color: #67c998;
 }
 
 .titulo {
@@ -27,4 +27,7 @@
         font-family: Emblema One;
         font-size: 28px;
         color: #0c0e0d;
+}
+.cabecalho{
+    background-color: aqua;
 }
