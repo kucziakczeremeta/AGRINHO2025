@@ -12,8 +12,9 @@ background-color: #ebebeb;
 }
 
 .foto {
-    width: 40%;
-    height: 100px;
+     width: 33% ;
+    border-radius: 10px;
+    height: 500px;
 }
 
 .header {
