@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 :root{
-background-color: #ebebeb;
+background-color: #e2e2e2;
 }
 
 .titulo {
@@ -30,5 +30,5 @@ background-color: #ebebeb;
         color: #0c0e0d;
 }
 .cabecalho{
-    background-color: rgb(184, 255, 199);
+    background-color: rgb(155, 253, 135);
 }
