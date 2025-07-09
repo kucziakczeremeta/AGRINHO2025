@@ -32,3 +32,7 @@ background-color: #e2e2e2;
 .cabecalho{
     background-color: rgb(149, 208, 137);
 }
+
+.subtitulo{
+    text-align: center;
+}
